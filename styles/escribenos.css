@@ -1,0 +1,16 @@
+h3{
+    
+    color: gainsboro;
+    text-align: justify;
+}
+.escribenos{
+    background-image: url(https://res.cloudinary.com/dddzn7afc/image/upload/v1692571288/Maria_P%C3%ADa_Bakery_-_La_Vida_a_Mordiscos_32_zdfub1.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color:whitesmoke;
+
+}
+
+body{
+ color: whitesmoke;
+}
